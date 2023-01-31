@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/Elemino/greeter.git",
-  "author": "Elem <elemshalit@gmail.com>",
+  "author": "Elemino",
   "license": "MIT",
   "devDependencies": {
     "@matterlabs/hardhat-zksync-deploy": "^0.6.1",
